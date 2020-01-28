@@ -19,7 +19,7 @@
 
 		<header class="special container">
 			<h2>안녕하세요 RODIN입니다.</h2>
-			<p>우리 RODIN사이트를 이용하시려면 LOGIN을 하셔야 합니다.</p>
+			<p>우리 RODIN사이트를 이용하시려면 LOGIN을 하셔야 합니다.!</p>
 		</header>
 
 		<!-- One -->
